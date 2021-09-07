@@ -1,6 +1,8 @@
-# Zhihu-blogs
-This repo keeps copies of my Chinese blogs posted in [Zhihu](https://www.zhihu.com/people/sun-yu-ren-94) as markdown files.
+# 关于麦屯碎碎念
 
-The blogs are also posted in a [gitBook](https://yurensun.gitbook.io/blogs/).
+这本gitBook记录了在知乎上发布在[麦屯碎碎念](https://www.zhihu.com/column/c_1098946005172555776)这个专栏里的文章。一个是做一个备份，另外是希望可以用gitBook讲这些文章更好地分类一下。
 
-The repo is in construction and I will gradually migrate the posts to here.
+内容大致分为三块，好好学习，好好生活，和好好干活，分别记录了我本科在威斯康辛大学麦迪逊分校的时候的学习，生活， 工作/实习，的经历和一些小小的建议。
+
+当然这本gitBook的目的只是做个记录，或者说是备份，就当作一个唠唠嗑和听故事的地方吧。
+
