@@ -22,52 +22,55 @@
 
 最后，学校有挺多课程是cross list的，比如说CS525和Math525是一节课，列表中的课号是我上的课的课号。
 
-| 课号 | 名称 | 相关要求 |
-| :--- | :--- | :--- |
-| **2018 Summer** | \*\*\*\* |  |
-| ESL 113 | Essentials of Academic Reading and Writing | Jump to ESL 118 for Communication A for international student |
-| **2018 Fall** | \*\*\*\* |  |
-| CS 300 | Programming Ⅱ | CS |
-| Math 340 | Element Matrix & Linear Algebra | Math, CS |
-| Econ 311 | Intmediate Microecon - Advance Treatment | Econ, Math, Social Sciences with automatic honor |
-| German 101 | German 101 - First Semester German | None |
-| Music 151 | Basic Concepts - Music Theory | Humanity with automatic honor |
-| **2019 Spring** | \*\*\*\* |  |
-| CS 252 | Intro To Computer Engineering | CS |
-| CS 400 | Programming III | CS |
-| Econ 312 | Intermediate Macroeconomic Theory - Advanced Treatment | Econ, Math, Social Sciences with automatic honor |
-| ESL 118 | Academic Writing II | Communication A for international students |
-| Math 234 | Calculus--Functions Of Several Variables | Math, CS, Econ |
-| Genetics 133 | Genetics In the News | Biological Sciences |
-| **2019 Summer** | \*\*\*\* |  |
-| ECE 699 | Study Abroad in Singapore | None |
-| Anthro 105 | Principle of Biological Anthropology | Biological Sciences with optional honor |
-| Art 108 | Foundations of Contemporary Art | Art, Humanity |
-| **2019 Fall** | \*\*\*\* |  |
-| Econ 475 | Economics of Growth | Econ, Math |
-| CS 240 | Intro to Discrete Math | CS |
-| CS 354 | Machine Organization and Programming | CS |
-| CS 525 | Linear Optimization | CS, Math |
-| CS 368 | C for Java Programmers | None |
-| Stat 309 | Intro to Probability and Mathematical Stat I | Math, Econ \(replace Econ 310\) |
-| **2020 Spring** |  |  |
-| CS 577 | Intro to Algorithms | CS |
-| CS 564 | Dataabse Management Systems Design and Implementation | CS |
-| Econ 521 | Game Theory and Economic Analysis | Econ, Math |
-| Math 421 | The theory of Single Variable Calculus | Math |
-| Art 107 | Intro to Digital Forms | Art |
-| **2020 Summer** |  |  |
-| UWC Online | Multicultural Literature in America | Literature, Ethnic |
-| **2020 Fall** | \*\*\*\* |  |
-| Art 346 | Basic Graphic Design | Art |
-| CS 537 | Introduction To Operating Systems | CS hardware/software |
-| CS 639 | Building User Interfaces | CS |
-| Econ 410 | Introductory Econometrics | Econ, Math |
-| Math 632 | Introduction To Stochastic Processes | Math |
-| **2021 Spring** | \*\*\*\* |  |
-| Econ 580 | Honors Tutorial in Research Project Design | Econ, Communication B, automatic honor |
-| CS 559 | Computer Graphics | CS |
-| Econ 390 | Contemporary Economic Issues （Visualization & Analysis） | Econ |
-| Math 475 | Introduction To Combinatorics | Math |
-| Art 438 | History Of Graphic Design And Typography | Art |
-
+| 课号                                        | 名称                                                                                               | 相关要求/Notes                                                    |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
+| ****[**2018 Summer**](2018-summer.md)**** |                                                                                                  |                                                               |
+| ESL 113                                   | Essentials of Academic Reading and Writing                                                       | Jump to ESL 118 for Communication A for international student |
+| ****[**2018 Fall**](2018-fall.md)****     |                                                                                                  |                                                               |
+| CS 300                                    | Programming Ⅱ                                                                                    | CS                                                            |
+| Math 340                                  | Element Matrix & Linear Algebra                                                                  | Math, CS                                                      |
+| Econ 311                                  | Intmediate Microecon - Advance Treatment                                                         | Econ, Math, Social Sciences with automatic honor              |
+| German 101                                | German 101 - First Semester German                                                               | None                                                          |
+| Music 151                                 | Basic Concepts - Music Theory                                                                    | Humanity with automatic honor                                 |
+| ****[**2019 Spring**](2019-spring.md)**** |                                                                                                  |                                                               |
+| CS 252                                    | Intro To Computer Engineering                                                                    | CS                                                            |
+| CS 400                                    | Programming III                                                                                  | CS                                                            |
+| Econ 312                                  | Intermediate Macroeconomic Theory - Advanced Treatment                                           | Econ, Math, Social Sciences with automatic honor              |
+| ESL 118                                   | Academic Writing II                                                                              | Communication A for international students                    |
+| Math 234                                  | Calculus--Functions Of Several Variables                                                         | Math, CS, Econ                                                |
+| Genetics 133                              | Genetics In the News                                                                             | Biological Sciences                                           |
+| ****[**2019 Summer**](2019-summer.md)**** |                                                                                                  |                                                               |
+| ECE 699                                   | Study Abroad in Singapore                                                                        | None                                                          |
+| Anthro 105                                | Principle of Biological Anthropology                                                             | Biological Sciences with optional honor                       |
+| Art 108                                   | Foundations of Contemporary Art                                                                  | Art, Humanity                                                 |
+| ****[**2019 Fall**](2019-fall.md)****     |                                                                                                  |                                                               |
+| Econ 475                                  | Economics of Growth                                                                              | Econ, Math                                                    |
+| CS 240                                    | Intro to Discrete Math                                                                           | CS                                                            |
+| CS 354                                    | Machine Organization and Programming                                                             | CS                                                            |
+| CS 525                                    | Linear Optimization                                                                              | CS, Math                                                      |
+| CS 368                                    | C for Java Programmers                                                                           | None                                                          |
+| Stat 309                                  | Intro to Probability and Mathematical Stat I                                                     | Math, Econ (replace Econ 310)                                 |
+| ****[**2020 Spring**](2020-spring.md)**** |                                                                                                  |                                                               |
+| CS 577                                    | Intro to Algorithms                                                                              | CS                                                            |
+| CS 564                                    | Dataabse Management Systems Design and Implementation                                            | CS                                                            |
+| Econ 521                                  | Game Theory and Economic Analysis                                                                | Econ, Math                                                    |
+| Math 421                                  | The theory of Single Variable Calculus                                                           | Math                                                          |
+| Art 107                                   | Intro to Digital Forms                                                                           | Art                                                           |
+| ****[**2020 Summer**](2020-summer.md)**** |                                                                                                  |                                                               |
+| UWC Online                                | Multicultural Literature in America                                                              | Literature, Ethnic                                            |
+| ****[**2020 Fall**](2020-fall.md)****     |                                                                                                  |                                                               |
+| Art 346                                   | Basic Graphic Design                                                                             | Art                                                           |
+| CS 537                                    | Introduction To Operating Systems                                                                | CS hardware/software                                          |
+| CS 639                                    | Building User Interfaces                                                                         | CS                                                            |
+| Econ 410                                  | Introductory Econometrics                                                                        | Econ, Math                                                    |
+| Math 632                                  | Introduction To Stochastic Processes                                                             | Math                                                          |
+| ****[**2021 Spring**](2021-spring.md)**** |                                                                                                  |                                                               |
+| Econ 580                                  | Honors Tutorial in Research Project Design                                                       | Econ, Communication B, automatic honor                        |
+| CS 559                                    | Computer Graphics                                                                                | CS                                                            |
+| Econ 390                                  | Contemporary Economic Issues （Visualization & Analysis）                                          | Econ                                                          |
+| Math 475                                  | Introduction To Combinatorics                                                                    | Math                                                          |
+| Art 438                                   | History Of Graphic Design And Typography                                                         | Art                                                           |
+| **2021 Fall**                             |                                                                                                  |                                                               |
+| CS 518                                    | Wearable Technology                                                                              | CS                                                            |
+| English 182                               | Introduction to Literature for Honors ( "Doing Time”: Race, Labor, and Incarceration in America) | Literature/humanity, honor                                    |
+| Art 448                                   | Intro to Responsive Web Design                                                                   | Dropped                                                       |
